@@ -1,0 +1,10 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\bin\Debug\ASimpleProgram.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\bin\Debug\ASimpleProgram.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\bin\Debug\ASimpleProgram.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.Properties.Resources.resources
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.csproj.GenerateResource.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.ASimpleProgram.resources

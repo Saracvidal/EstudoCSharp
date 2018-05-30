@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\bin\Debug\Square.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\bin\Debug\Square.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\bin\Debug\Square.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\obj\Debug\Square.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\obj\Debug\Square.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Square\Square\obj\Debug\Square.pdb

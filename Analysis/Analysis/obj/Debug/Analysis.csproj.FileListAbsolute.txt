@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Analysis\Analysis\bin\Debug\Analysis.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Analysis\Analysis\bin\Debug\Analysis.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Analysis\Analysis\bin\Debug\Analysis.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Analysis\Analysis\obj\Debug\Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Analysis\Analysis\obj\Debug\Analysis.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Analysis\Analysis\obj\Debug\Analysis.pdb

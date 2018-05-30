@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\bin\Debug\MaximumValue.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\bin\Debug\MaximumValue.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\bin\Debug\MaximumValue.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\obj\Debug\MaximumValue.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\obj\Debug\MaximumValue.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\obj\Debug\MaximumValue.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\MaximumValue\MaximumValue\obj\Debug\MaximumValue.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\images\images\bin\Debug\images.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\images\images\bin\Debug\images.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\images\images\bin\Debug\images.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\images\images\obj\Debug\images.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\images\images\obj\Debug\images.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\images\images\obj\Debug\images.pdb

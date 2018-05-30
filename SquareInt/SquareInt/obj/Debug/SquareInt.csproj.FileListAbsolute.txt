@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\bin\Debug\SquareInt.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\bin\Debug\SquareInt.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\bin\Debug\SquareInt.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\obj\Debug\SquareInt.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\obj\Debug\SquareInt.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\obj\Debug\SquareInt.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\SquareInt\SquareInt\obj\Debug\SquareInt.csprojResolveAssemblyReference.cache

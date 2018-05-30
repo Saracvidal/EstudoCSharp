@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\bin\Debug\FactorialTest.exe.config
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\bin\Debug\FactorialTest.exe
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\bin\Debug\FactorialTest.pdb
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\obj\Debug\FactorialTest.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\obj\Debug\FactorialTest.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\obj\Debug\FactorialTest.exe
+C:\Users\Sara Vidal\source\repos\FactorialTest\FactorialTest\obj\Debug\FactorialTest.pdb

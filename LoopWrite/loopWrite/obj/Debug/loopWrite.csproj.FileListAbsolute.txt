@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\source\repos\loopWrite\loopWrite\bin\Debug\loopWrite.exe.config
+C:\Users\Sara Vidal\source\repos\loopWrite\loopWrite\bin\Debug\loopWrite.exe
+C:\Users\Sara Vidal\source\repos\loopWrite\loopWrite\bin\Debug\loopWrite.pdb
+C:\Users\Sara Vidal\source\repos\loopWrite\loopWrite\obj\Debug\loopWrite.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\source\repos\loopWrite\loopWrite\obj\Debug\loopWrite.exe
+C:\Users\Sara Vidal\source\repos\loopWrite\loopWrite\obj\Debug\loopWrite.pdb

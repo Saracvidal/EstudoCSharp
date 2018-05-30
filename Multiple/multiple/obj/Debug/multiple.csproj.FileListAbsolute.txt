@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\bin\Debug\multiple.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\bin\Debug\multiple.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\bin\Debug\multiple.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\obj\Debug\multiple.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\obj\Debug\multiple.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\obj\Debug\multiple.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\multiple\multiple\obj\Debug\multiple.pdb

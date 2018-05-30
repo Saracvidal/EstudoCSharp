@@ -1,0 +1,10 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\TwoDimensionalArrays.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.Properties.Resources.resources
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.csproj.GenerateResource.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\TwoDimensionalArrays.TwoDimensionalArrays.resources

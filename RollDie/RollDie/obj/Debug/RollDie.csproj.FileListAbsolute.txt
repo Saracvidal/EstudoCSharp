@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDie\RollDie\obj\Debug\RollDie.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDie\RollDie\bin\Debug\RollDie.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDie\RollDie\bin\Debug\RollDie.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDie\RollDie\bin\Debug\RollDie.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDie\RollDie\obj\Debug\RollDie.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDie\RollDie\obj\Debug\RollDie.pdb

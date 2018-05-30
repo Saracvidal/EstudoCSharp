@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Circle\Circle\obj\Debug\Circle.pdb

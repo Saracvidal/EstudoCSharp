@@ -1,0 +1,11 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\obj\Debug\netcoreapp2.0\Time1.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\obj\Debug\netcoreapp2.0\Time1.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\obj\Debug\netcoreapp2.0\Time1.AssemblyInfoInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\obj\Debug\netcoreapp2.0\Time1.AssemblyInfo.cs
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\bin\Debug\netcoreapp2.0\Time1.deps.json
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\bin\Debug\netcoreapp2.0\Time1.runtimeconfig.json
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\bin\Debug\netcoreapp2.0\Time1.runtimeconfig.dev.json
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\bin\Debug\netcoreapp2.0\Time1.dll
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\bin\Debug\netcoreapp2.0\Time1.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\obj\Debug\netcoreapp2.0\Time1.dll
+C:\Users\Sara Vidal\Desktop\Deitel book\Time1\Time1\obj\Debug\netcoreapp2.0\Time1.pdb

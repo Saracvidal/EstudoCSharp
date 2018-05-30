@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\RefOutTest\RefOutTest\bin\Debug\RefOutTest.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\RefOutTest\RefOutTest\bin\Debug\RefOutTest.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RefOutTest\RefOutTest\bin\Debug\RefOutTest.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\RefOutTest\RefOutTest\obj\Debug\RefOutTest.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\RefOutTest\RefOutTest\obj\Debug\RefOutTest.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RefOutTest\RefOutTest\obj\Debug\RefOutTest.pdb

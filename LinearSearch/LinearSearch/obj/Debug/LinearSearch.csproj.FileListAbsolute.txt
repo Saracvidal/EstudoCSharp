@@ -1,0 +1,9 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\obj\Debug\LinearSearch.Properties.Resources.resources
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.GenerateResource.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\bin\Debug\ForWithMessageBox.exe.config
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\bin\Debug\ForWithMessageBox.exe
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\bin\Debug\ForWithMessageBox.pdb
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\obj\Debug\ForWithMessageBox.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\obj\Debug\ForWithMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\obj\Debug\ForWithMessageBox.exe
+C:\Users\Sara Vidal\source\repos\ForWithMessageBox\ForWithMessageBox\obj\Debug\ForWithMessageBox.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.Properties.Resources.resources
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.csproj.GenerateResource.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\bin\Debug\DoubleArray.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\bin\Debug\DoubleArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\bin\Debug\DoubleArray.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\DoubleArray\DoubleArray\obj\Debug\DoubleArray.DoubleArray.resources

@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\obj\Debug\Comparison.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Comparison\Comparison\obj\Debug\Comparison.pdb

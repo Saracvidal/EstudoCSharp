@@ -1,0 +1,7 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\obj\Debug\ForEach.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\ForEach\ForEach\obj\Debug\ForEach.csprojResolveAssemblyReference.cache

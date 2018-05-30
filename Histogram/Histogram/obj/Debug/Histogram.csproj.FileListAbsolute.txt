@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Histogram\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Histogram\Histogram\obj\Debug\Histogram.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\source\repos\Scoping\Scoping\bin\Debug\Scoping.exe.config
+C:\Users\Sara Vidal\source\repos\Scoping\Scoping\bin\Debug\Scoping.exe
+C:\Users\Sara Vidal\source\repos\Scoping\Scoping\bin\Debug\Scoping.pdb
+C:\Users\Sara Vidal\source\repos\Scoping\Scoping\obj\Debug\Scoping.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\source\repos\Scoping\Scoping\obj\Debug\Scoping.exe
+C:\Users\Sara Vidal\source\repos\Scoping\Scoping\obj\Debug\Scoping.pdb

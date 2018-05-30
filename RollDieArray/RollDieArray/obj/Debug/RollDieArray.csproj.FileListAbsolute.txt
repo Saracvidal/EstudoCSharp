@@ -1,0 +1,8 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\bin\Debug\RollDieArray.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\bin\Debug\RollDieArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\bin\Debug\RollDieArray.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\obj\Debug\RollDieArray.Properties.Resources.resources
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\obj\Debug\RollDieArray.csproj.GenerateResource.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\obj\Debug\RollDieArray.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\obj\Debug\RollDieArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RollDieArray\RollDieArray\obj\Debug\RollDieArray.pdb

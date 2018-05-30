@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\InitArray\InitArray\obj\Debug\InitArray.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\InitArray\InitArray\bin\Debug\InitArray.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\InitArray\InitArray\bin\Debug\InitArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\InitArray\InitArray\bin\Debug\InitArray.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\InitArray\InitArray\obj\Debug\InitArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\InitArray\InitArray\obj\Debug\InitArray.pdb

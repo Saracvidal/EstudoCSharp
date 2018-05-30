@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\SumArray\SumArray\bin\Debug\SumArray.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\SumArray\SumArray\bin\Debug\SumArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\SumArray\SumArray\bin\Debug\SumArray.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\SumArray\SumArray\obj\Debug\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\SumArray\SumArray\obj\Debug\SumArray.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\SumArray\SumArray\obj\Debug\SumArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\UperAndLower\UperAndLower\bin\Debug\UperAndLower.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\UperAndLower\UperAndLower\bin\Debug\UperAndLower.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\UperAndLower\UperAndLower\bin\Debug\UperAndLower.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\UperAndLower\UperAndLower\obj\Debug\UperAndLower.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\UperAndLower\UperAndLower\obj\Debug\UperAndLower.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\UperAndLower\UperAndLower\obj\Debug\UperAndLower.pdb

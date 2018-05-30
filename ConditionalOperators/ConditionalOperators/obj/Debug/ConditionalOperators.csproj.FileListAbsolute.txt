@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\source\repos\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\source\repos\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe.config
+C:\Users\Sara Vidal\source\repos\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe
+C:\Users\Sara Vidal\source\repos\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.pdb
+C:\Users\Sara Vidal\source\repos\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.exe
+C:\Users\Sara Vidal\source\repos\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\bin\Debug\netcoreapp2.0\CompositionTest.deps.json
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\bin\Debug\netcoreapp2.0\CompositionTest.runtimeconfig.json
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\bin\Debug\netcoreapp2.0\CompositionTest.runtimeconfig.dev.json
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\bin\Debug\netcoreapp2.0\CompositionTest.dll
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\bin\Debug\netcoreapp2.0\CompositionTest.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\obj\Debug\netcoreapp2.0\CompositionTest.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\obj\Debug\netcoreapp2.0\CompositionTest.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\obj\Debug\netcoreapp2.0\CompositionTest.AssemblyInfoInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\obj\Debug\netcoreapp2.0\CompositionTest.AssemblyInfo.cs
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\obj\Debug\netcoreapp2.0\CompositionTest.dll
+C:\Users\Sara Vidal\Desktop\Deitel book\CompositionTest\CompositionTest\obj\Debug\netcoreapp2.0\CompositionTest.pdb

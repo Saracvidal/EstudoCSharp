@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Concatenate\Concatenate\bin\Debug\Concatenate.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Concatenate\Concatenate\bin\Debug\Concatenate.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Concatenate\Concatenate\bin\Debug\Concatenate.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Concatenate\Concatenate\obj\Debug\Concatenate.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Concatenate\Concatenate\obj\Debug\Concatenate.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Concatenate\Concatenate\obj\Debug\Concatenate.pdb

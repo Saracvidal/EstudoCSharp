@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Addition\Addition\bin\Debug\Addition.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Addition\Addition\bin\Debug\Addition.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Addition\Addition\bin\Debug\Addition.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Addition\Addition\obj\Debug\Addition.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Addition\Addition\obj\Debug\Addition.pdb

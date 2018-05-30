@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\source\repos\Interest\Interest\bin\Debug\Interest.exe.config
+C:\Users\Sara Vidal\source\repos\Interest\Interest\bin\Debug\Interest.exe
+C:\Users\Sara Vidal\source\repos\Interest\Interest\bin\Debug\Interest.pdb
+C:\Users\Sara Vidal\source\repos\Interest\Interest\obj\Debug\Interest.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\source\repos\Interest\Interest\obj\Debug\Interest.exe
+C:\Users\Sara Vidal\source\repos\Interest\Interest\obj\Debug\Interest.pdb

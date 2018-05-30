@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\RandomInt\RandomInt\bin\Debug\RandomInt.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\RandomInt\RandomInt\bin\Debug\RandomInt.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RandomInt\RandomInt\bin\Debug\RandomInt.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\RandomInt\RandomInt\obj\Debug\RandomInt.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\RandomInt\RandomInt\obj\Debug\RandomInt.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\RandomInt\RandomInt\obj\Debug\RandomInt.pdb

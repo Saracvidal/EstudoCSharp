@@ -1,0 +1,6 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\Average2\Average2\bin\Debug\Average2.exe.config
+C:\Users\Sara Vidal\Desktop\Deitel book\Average2\Average2\bin\Debug\Average2.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Average2\Average2\bin\Debug\Average2.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\Average2\Average2\obj\Debug\Average2.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\Average2\Average2\obj\Debug\Average2.exe
+C:\Users\Sara Vidal\Desktop\Deitel book\Average2\Average2\obj\Debug\Average2.pdb
