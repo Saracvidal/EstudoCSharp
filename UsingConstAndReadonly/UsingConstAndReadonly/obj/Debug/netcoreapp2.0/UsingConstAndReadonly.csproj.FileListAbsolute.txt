@@ -1,0 +1,11 @@
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\bin\Debug\netcoreapp2.0\UsingConstAndReadonly.deps.json
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\bin\Debug\netcoreapp2.0\UsingConstAndReadonly.runtimeconfig.json
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\bin\Debug\netcoreapp2.0\UsingConstAndReadonly.runtimeconfig.dev.json
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\bin\Debug\netcoreapp2.0\UsingConstAndReadonly.dll
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\bin\Debug\netcoreapp2.0\UsingConstAndReadonly.pdb
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\obj\Debug\netcoreapp2.0\UsingConstAndReadonly.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\obj\Debug\netcoreapp2.0\UsingConstAndReadonly.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\obj\Debug\netcoreapp2.0\UsingConstAndReadonly.AssemblyInfoInputs.cache
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\obj\Debug\netcoreapp2.0\UsingConstAndReadonly.AssemblyInfo.cs
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\obj\Debug\netcoreapp2.0\UsingConstAndReadonly.dll
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\UsingConstAndReadonly\UsingConstAndReadonly\obj\Debug\netcoreapp2.0\UsingConstAndReadonly.pdb
