@@ -1,0 +1,11 @@
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\obj\Debug\netcoreapp2.0\ThisTest.csprojResolveAssemblyReference.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\obj\Debug\netcoreapp2.0\ThisTest.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\obj\Debug\netcoreapp2.0\ThisTest.AssemblyInfoInputs.cache
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\obj\Debug\netcoreapp2.0\ThisTest.AssemblyInfo.cs
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\bin\Debug\netcoreapp2.0\ThisTest.deps.json
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\bin\Debug\netcoreapp2.0\ThisTest.runtimeconfig.json
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\bin\Debug\netcoreapp2.0\ThisTest.runtimeconfig.dev.json
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\bin\Debug\netcoreapp2.0\ThisTest.dll
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\bin\Debug\netcoreapp2.0\ThisTest.pdb
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\obj\Debug\netcoreapp2.0\ThisTest.dll
+C:\Users\Sara Vidal\Desktop\Deitel book\ThisTest\ThisTest\obj\Debug\netcoreapp2.0\ThisTest.pdb
