@@ -1,0 +1,10 @@
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\obj\Debug\netcoreapp2.0\StaticTest.csproj.CoreCompileInputs.cache
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\obj\Debug\netcoreapp2.0\StaticTest.AssemblyInfoInputs.cache
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\obj\Debug\netcoreapp2.0\StaticTest.AssemblyInfo.cs
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\bin\Debug\netcoreapp2.0\StaticTest.deps.json
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\bin\Debug\netcoreapp2.0\StaticTest.runtimeconfig.json
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\bin\Debug\netcoreapp2.0\StaticTest.runtimeconfig.dev.json
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\bin\Debug\netcoreapp2.0\StaticTest.dll
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\bin\Debug\netcoreapp2.0\StaticTest.pdb
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\obj\Debug\netcoreapp2.0\StaticTest.dll
+C:\Users\Sara Vidal\Desktop\EstudoCSharp\StaticTest\StaticTest\obj\Debug\netcoreapp2.0\StaticTest.pdb
